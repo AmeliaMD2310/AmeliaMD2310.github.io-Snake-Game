@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('gamebackground.jpg') no-repeat center center/cover;
+    margin: 0;
+}
+
+
+
+
+
+
+
